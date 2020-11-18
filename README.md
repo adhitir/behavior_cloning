@@ -1,4 +1,10 @@
-#### Implement Behavior Cloning for Line Following:
+#### Behavior Cloning for Line Following
+
+
+
+![](./images/DL_line_follow.gif)
+
+
 
 ##### Dependencies:
 
